@@ -6,9 +6,9 @@
 ## Тестирование мобильных и веб-приложений
 <div>
   <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" title="HTTP" alt="HTTP" width="30" height="30"/>
-  <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" title="HTML" alt="HTML" width="30" height="30"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" title="HTML" alt="HTML" width="30" height="30"/>
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" title="CSS" alt="CSS" width="30" height="30"/>
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="30" height="30"/>
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="Сharles-proxy" width="30" height="30"/>
   <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" title="Figma" alt="Figma" width="30" height="30"/>
 </div>
 
